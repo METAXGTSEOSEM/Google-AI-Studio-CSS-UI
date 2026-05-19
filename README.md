@@ -1,43 +1,78 @@
 <div align="center">
 
-# 🪄 Google AI Studio UI Enhancement
-### 提升 10x 审美与效率的自定义 CSS 主题
+# 🪞 Google AI Studio: Reimagined
+### 高保真界面重塑计划 · 极简生产力方案
 
-[![Platform](https://img.shields.io/badge/Platform-Google_AI_Studio-blue?style=for-the-badge&logo=google)](#)
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/UI--UX-Premium-blueviolet?style=for-the-badge&logo=glassdoor" />
+  <img src="https://img.shields.io/badge/Mode-Dark_&_Light-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-Optimized-brightgreen?style=for-the-badge" />
+</p>
 
-> **核心目标**：针对 Google AI Studio 官方界面进行细节优化，提供更舒适的视觉层级、优化的代码块显示以及更符合生产力要求的排版布局。
+---
+
+<!-- 这里是核心大图展示区 -->
+<br />
+<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
+  <img src="assets/preview.png" alt="Product Preview" width="100%" />
+</div>
+<br />
+
+---
 
 </div>
 
-<br/>
+## 📑 核心设计理念 (Design Philosophy)
 
-## 🛠️ 安装指引 (Installation)
+> **"不仅仅是美化，更是为了更专注的对话体验。"**
+>
+> 我们通过对 Google AI Studio 的 DOM 结构进行深度解析，去除了冗余的视觉干扰，优化了排版对比度，使之更接近于一个专业的 IDE 开发环境。
 
-推荐配合浏览器扩展 **Stylus** 使用，以获得最佳体验：
+<br />
 
-1. **安装插件**：[Stylus (Chrome)](https://chromewebstore.google.com/detail/stylus/clngdbobakmeocdlolnnoojnmiobgeie) 或 [Stylus (Firefox)](https://addons.mozilla.org/zh-CN/firefox/addon/styl-us/)。
-2. **创建样式**：点击 Stylus 图标 -> 选择 `管理` -> `编写新样式`。
-3. **注入代码**：将本项目中的 `Google-AI-Studio.css` 内容完整粘贴。
-4. **指定域名**：在下方“应用于”栏目中选择 `aistudio.google.com`。
-5. **保存生效**：点击左侧 `保存` 即可。
+## ✨ 视觉进化亮点 (Key Enhancements)
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 极致布局</h3>
+      <p>重新定义侧边栏与主舞台的黄金分割比例，增加内容呼吸感，即使在长时间对话下也能保持视觉舒适。</p>
+    </td>
+    <td width="50%">
+      <h3>💻 开发者友好</h3>
+      <p>针对 Markdown 代码块进行像素级微调，增强语法高亮对比度，采用更易读的等宽字体渲染。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎨 专注焦点</h3>
+      <p>输入框焦点态增强，弱化非活动组件，帮助用户更快速地锁定当前正在进行的任务。</p>
+    </td>
+    <td width="50%">
+      <h3>🌑 深度暗色模式</h3>
+      <p>修复原生模式下的灰度色差，采用更加深邃、护眼的色值体系，降低蓝光伤害。</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 🛠️ 快速部署 (Setup)
+
+本项目基于 **Stylus** 引擎开发，只需三步即可完成进化：
+
+1. **获取工具**：安装浏览器插件 [Stylus](https://add0n.com/stylus.html)。
+2. **导入源码**：在管理面板点击 `编写新样式`。
+3. **注入配置**：将仓库中的 `Google-AI-Studio.css` 内容粘贴并保存。
 
 ---
 
-## ✨ 核心优化项 (Key Features)
+<div align="center">
 
-| 模块 | 优化描述 |
-| :--- | :--- |
-| **整体布局** | 增加呼吸感，优化侧边栏与主对话框的比例 |
-| **代码块** | 增强代码高亮对比度，调整字体间距，提升可读性 |
-| **提示词框** | 优化输入框焦点视觉，增强多模态附件展示效果 |
-| **黑暗模式** | (可选) 修复官方黑暗模式下的颜色偏差与层级感 |
+## 👨‍💻 维护者 (Maintainer)
+**METAXGTSEOSEM**  
+如果您喜欢这个设计，请点一个 **Star** ⭐️ 
 
----
+[MIT License](./LICENSE) © 2026
 
-## 👨‍💻 贡献与反馈
-本项目由 [你的用户名] 维护。如果您发现样式失效或有更好的优化建议，欢迎提交 **Issue** 或 **Pull Request**！
-
-## 📄 许可证
-本项目基于 [MIT License](https://opensource.org/licenses/MIT) 开源。
+</div>
