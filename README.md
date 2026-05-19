@@ -11,10 +11,10 @@
 
 ---
 
-<!-- 这里是核心大图展示区 -->
+<!-- 核心大图展示区：模拟高端卡片效果 -->
 <br />
-<div style="border-radius: 12px; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
-  <img src="assets/preview.png" alt="Product Preview" width="100%" />
+<div align="center">
+  <img src="./assets/preview.png" alt="Google AI Studio Preview" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 1px solid #333;" width="900">
 </div>
 <br />
 
@@ -58,8 +58,6 @@
 <br />
 
 ## 🛠️ 快速部署 (Setup)
-
-本项目基于 **Stylus** 引擎开发，只需三步即可完成进化：
 
 1. **获取工具**：安装浏览器插件 [Stylus](https://add0n.com/stylus.html)。
 2. **导入源码**：在管理面板点击 `编写新样式`。
