@@ -2,8 +2,6 @@
 
 <br />
 
-![Banner]
-
 # 🎨 Google AI Studio — Reimagined
 
 ### Premium CSS Overrides · Aesthetic + Productivity · 3 Gorgeous Themes
@@ -104,7 +102,7 @@ A slow-breathing cosmic atmosphere for your AI conversations. Deep indigo drifts
 - 🫧 Full transparency pass on all containers — gradient bleeds through
 - 🌀 Glass-morphism sidebar & toolbar with backdrop blur
 - 💜 Muted plum-accent buttons, dropdowns & scrollbars
-- 🌙 Ultra-dark card interiors (gba(6,4,12,0.55)) for thought panels
+- 🌙 Ultra-dark card interiors for thought panels
 - 🎭 Coexists perfectly with the Original Pro theme elements
 
 <br />
@@ -147,11 +145,11 @@ The boldest theme in the collection. A luminous pink-to-purple gradient input bo
 <br />
 
 **What it does:**
-- ⚡ Gradient-border input box with padding-box/order-box trick — neon pink → violet
+- ⚡ Gradient-border input box with neon pink → violet
 - 💫 Animated glow shadow that pulses in an 8s breathing loop
 - ✨ Hover & focus states that intensify glow to retina-searing levels
-- 💗 Hot-pink caret (#ff007f) inside the textarea
-- 🌑 Deep #040308 noir base with 3-layer radial gradient atmosphere
+- 💗 Hot-pink caret inside the textarea
+- 🌑 Deep noir base with 3-layer radial gradient atmosphere
 - 🎯 Full glass-morphism on cards, panels, dropdowns & sidebars
 
 <br />
@@ -320,18 +318,18 @@ Every rule in these stylesheets was written after deep DOM inspection of AI Stud
 
 <br />
 
-`
+```
 Google-AI-Studio-CSS-UI/
-├── Google-AI-Studio.css                           ← Original Pro theme (Stylus)
-├── Google-AI-Studio-Deep-Indigo-Plum.css           ← Deep Indigo & Plum theme (Stylus)
-├── Google-AI-Studio-Deep-Indigo-Plum.user.js       ← Pink-Purple Neon theme (Tampermonkey)
+├── Google-AI-Studio.css                          # Original Pro theme (Stylus)
+├── Google-AI-Studio-Deep-Indigo-Plum.css          # Deep Indigo & Plum theme (Stylus)
+├── Google-AI-Studio-Deep-Indigo-Plum.user.js      # Pink-Purple Neon theme (Tampermonkey)
 ├── assets/
-│   ├── preview.png                                 ← Original Pro screenshot
-│   ├── deep-indigo-plum-preview.png                ← Deep Indigo screenshot
-│   └── pink-purple-neon-preview.png                ← Neon screenshot
-├── README.md                                       ← You are here
-└── LICENSE                                         ← MIT
-`
+│   ├── preview.png                                # Original Pro screenshot
+│   ├── deep-indigo-plum-preview.png               # Deep Indigo screenshot
+│   └── pink-purple-neon-preview.png               # Neon screenshot
+├── README.md                                      # You are here
+└── LICENSE                                        # MIT
+```
 
 <br />
 
